@@ -1,0 +1,104 @@
+  @import url('https://fonts.googleapis.com/css2?family=Victor+Mono:wght@300;500;700&display=swap');
+
+  
+
+* {
+    margin:0;
+    border:0;
+    padding:0;
+}
+
+body {
+    font-family: 'Victor Mono', monospace;
+    background-color: #ff9ec2 !important;
+}
+.title {
+text-align: center;
+
+}
+
+.info {
+    display:flex;
+}
+
+.card-header {
+    font-size: 50px;
+    color:#330000;
+    background-color: #ca668b;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin:20px;
+    
+}
+
+.card-header2 {
+    font-size: 20px;
+    background-color: #ca668b;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin:25px;
+    
+}
+   
+.card-title {
+    text-align: center;
+    color:#330000;
+    
+}
+
+
+.card-text {
+    text-align: center;
+    
+}
+
+
+.container {
+    justify-content:center;
+    padding-top: 20px;
+    padding-left: 300px;
+}
+
+.title-color {
+    background-color:#005954;
+}
+
+.item {
+    color:#330000;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    justify-content:center;
+    padding-left: 680px;
+    
+    
+}
+
+.item1 {
+    color:#330000;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    justify-content:center;
+    padding-left: 600px;
+}
+
+.item2 {
+    color:#330000;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    justify-content:center;
+    padding-left: 670px;
+}
+
+.accordion-body {
+    background-color: #ff9ec2;
+}
+
+.card-center {
+    display: block;
+    margin: 0 auto;
+}
